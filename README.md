@@ -13,10 +13,6 @@ I am a **Big Data Architect** and **ML Engineer** with a deep interest in **Data
 
 In addition to my technical skills, I am passionate about contributing to research in **AI** and **Machine Learning**, and I aspire to use my knowledge to build innovative solutions that can positively impact the world.
 
-### 🎓 Current Focus
-- Working on my **MS Thesis** related to **LLMs** and **Retrieval-Augmented Generation (RAG)**.
-- Developing models combining **Graph Neural Networks (GNNs)** and **LLMs** to learn relationships from data.
-
 ### 💡 My Skills
 - **Big Data Technologies**: Apache Spark, Apache Airflow, Kafka, Debezium, ETL, Data Connectors
 - **Machine Learning**: Model Building, Neural Networks, GNNs, LLMs, RAG
