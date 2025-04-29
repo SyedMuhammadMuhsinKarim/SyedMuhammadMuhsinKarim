@@ -1,16 +1,15 @@
 # 💫 About Me:
-🔭 I’m currently working on building intelligent learning systems using Large Language Models (LLMs), Graph Neural Networks (GNNs), and Retrieval-Augmented Generation (RAG) for adaptive education platforms.
+🔭 I’m currently working on real-time data engineering pipelines, intelligent systems using LLMs, and scalable ML model deployments.
 
-👯 I’m looking to collaborate on projects involving machine learning, big data pipelines, real-time data processing (e.g., Kafka, Spark), or AI research applications—especially ones that combine NLP and graph-based learning.
+👯 I’m looking to collaborate on projects involving machine learning, big data technologies (like Spark, Kafka, Airflow), and backend systems for AI applications.
 
-🤝 I’m looking for help with designing scalable architectures for AI-powered systems and contributing to open-source projects that focus on explainable AI or education technology.
+🤝 I’m looking for help with optimizing Python-based microservices and contributing to open-source tools that enhance ML workflows and cloud integration.
 
-🌱 I’m currently learning advanced Graph ML techniques, quantum computing concepts, and refining my SQL/data engineering problem-solving skills.
+🌱 I’m currently learning advanced Graph ML concepts, SQL problem-solving strategies, and improving my system design and scalability skills.
 
-💬 Ask me about LLMs, knowledge graph learning, ETL workflows, or integrating AI models with real-world cloud solutions (GCP, AWS).
+💬 Ask me about LLMs, data engineering, distributed systems, or integrating ML models with GCP or AWS.
 
-⚡ Fun fact: I'm deeply inspired by Richard Feynman’s thinking style and love breaking down complex systems into elegant, understandable frameworks.
-
+⚡ Fun fact: I love breaking down complex systems into first principles and am fascinated by how abstract logic can shape real-world technologies.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/syedmohsinkarim) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/syedmohsinkarim) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/syedmohsinkarim) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:syed.mohsin.karim@gmail.com) 
